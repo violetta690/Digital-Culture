@@ -1,0 +1,101 @@
+.my-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.head-image{
+    width: 100%;
+    background-image: url('../images/head_image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 18% 10%;    
+}
+.head-text{
+    color: white;
+    width: 50%;
+    font-family: system-ui;
+    font-weight: 900;
+    font-size: 46px;
+    -webkit-text-stroke: 1px #000000;
+}
+.main{
+    margin-top: 20px;
+}
+.introduction h2{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: system-ui;
+    font-size: 46px;
+}
+.introduction p{
+    font-family: system-ui;
+    font-size: 23px;
+}
+.intro-img{
+    float: right;
+    margin: 7px 0 7px 7px;
+    max-width: 400px;
+}
+.main-idea{
+    margin-top: 20px;
+}
+
+.main-idea h2{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: system-ui;
+    font-size: 46px;
+}
+.main-idea{
+    font-family: system-ui;
+    font-size: 23px;
+}
+.main-idea-img{
+    max-width: 450px;
+    float:left; 
+    margin: 7px 7px 7px 0;
+}
+.footer{
+    background-color: #f8f9fa;
+    padding: 25px 20px;
+
+}
+
+.footer-content p{
+    font-family: system-ui;
+    font-size: 18px;
+}
+.journal-image{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+.main-text h2{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: system-ui;
+    font-size: 46px;
+}
+.main-text p{
+    font-family: system-ui;
+    font-size: 23px;
+}
+
+.footer-leterature h4{
+    margin-bottom: 20px;
+    font-family: system-ui;
+}
+.footer-leterature h5{
+    font-family: system-ui;
+    font-size: 18px;
+    line-height: 4px;
+}
+.footer-leterature p{
+    font-family: system-ui;
+    font-size: 14px;
+}
+
+.footer-leterature ul li{
+    font-family: system-ui;
+    font-size: 14px;
+}
